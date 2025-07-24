@@ -424,7 +424,7 @@ label .grupo-opciones {
 }
 
 .radio-option input[type="radio"] {
-  accent-color: var(--color-terciario); /* Cambia el color del círculo si el navegador lo soporta */
+  accent-color:#000000; /* Cambia el color del círculo si el navegador lo soporta */
 }
 .etiqueta {
     font-family: var(--font-secundaria);
